@@ -1,4 +1,4 @@
-# Maintainer: Your Name <your.email@example.com>
+# Maintainer: Sai Kiran Belana
 pkgname=goodnotes-electron
 pkgver=1.0.0
 pkgrel=1
